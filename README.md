@@ -6,5 +6,5 @@ Para rodar o código, basta ter uma licensa do software Gurobi e executar o arqu
 
 ---
 
-Feito com 💜 by
+Feito com 💜 por
 - [Gabriel Penido](https://github.com/LePenidon)
