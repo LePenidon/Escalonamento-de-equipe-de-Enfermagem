@@ -1,0 +1,8 @@
+Restricoes infactiveis: 
+
+h_cons_01[0][27]
+h_cons_04[A]
+h_cons_06[A][21]
+h_cons_08[A][1][23]
+h_cons_08[A][1][24]
+h_cons_08[A][1][25]

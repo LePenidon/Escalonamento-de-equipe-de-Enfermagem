@@ -1,0 +1,32 @@
+D	E	D	N				D	E	D			N	N					D	E	D			D	D	D	L	N			D	D				L	L	L	L	N			
+D	D	D	N					D	N	N			D	D	D	D	D					D	D	D	D					D	D	D	D	N			D	D			N	
+D	N			D	D	L			L	L				E	D			E	E	N	N			D	D	E			D	D	L	L			L	L	L	L	L			
+	D	D			D	D			D	D	D			L	L	L	L					D	D	D	D			D	D	L			D	D	L			L	L	L	L	
+L	L	N			D	D	N	N				L	L	L	L	L					E	D	D	D	L				E	D	D	E			N	N			D	D		
+D	D	D	D	L			L	L	L	L	L			L	L	L	L	L			L	L							D	D			D	D			D	L	L	L		
+D	D	D	N				D	L	L						D	D	N				D	D	D	D				L	L	L	N	N			L	L	L	N			D	
+E	D	D	N			D	D	D	D	E				E	D	D	D	E			L	L	L	L	N				D	D	D	D	D						D	D		
+	D	D	D	E			E	D			N	N	N	N			D	D			E	D	E	D					D	D			D	D				E	D	D	D	
+E			D	N			E	D	D	D	E				D	D	D	L	N			E	L	L	L				L	L				D	D	N	N	N				
+D	E	E						D	D	D	E			D	D	D	D			L	L			L	L	L	L			L	L	L	L	L			D	L	L			
+		D	E	E	D	D			D	D	D			D	D	D			D	N	N	N	N					D	N			D	D	D			L	L	L			
+D	D			D	D	D			D	D	D			D	D	D			D	D	D	D						D	D	D	D	D			D	D			D	D	D	
+D	E			E	E	E	E			D	N			E	E	D				D	E	D	D	N				D	D	E			N	N			E	D	N			
+D	D	D	D	D			D	D	D			L	L								D	D	D	D	D			D	D	D	L			L	L			L	L	L	L	
+	D	N	N			D	D	D	N	N				D	D	D	D				D	D				D	D	D			D	D					D	D	D	D	N	
+D	D	D	D	D			D	D	D			D	L	L	L	L			D	L			L	L	L				D	D							D	D	D	D	L	
+E	D	D	D	E				E	D	E	E			D	D	D	D	N			D	D			D	N	N	N						D	D	E			D	D	E	
+D	D	D	D	N			E	D	N	N			L	L	L	L	L				E	D	N				D	D			D	D	D	E			L	L	L			
+D	D			D	D	D	D			D	D	D	L	L			D	D	D	D			L	L	L				D	L					D	D	D	D	D			
+			D	D	D	D	D	D				D	D	D	D	D	D				L	L	L	L	L				D	D	E	D	L	L				D	D			
+D	D	D	D	D				D	D	D	D	D	D				E	D	E	D				L	L						D	D				D	D	E	E	D	L	
+D	D	D	L	L	N						D	D	D	N	N	N					D	D						D	D	D	L	L				L	L	L	L	L		
+			E	D				D	D	D	D				E	D	E	D	N	N				E	D	D	N	N	N					E	E	D	D	D	D			
+	E	D	D	D				D	D					D	D	D	E				E	D	D				D	D	D	D	D	E				D	E	E	D	D	D	
+D	D	E	E	N				D	D	D				D	D	D	N	N				D	D	D	D				D	D				D	N				D	D	D	
+D	D	D	D	L						D	D	D	L	N	N				D	L	L	L	N				D	D	D	L	L	L				D	D	L				
+	E						D									E	D			E						E	E	E	E						D	D				E		
+L				E				E						L	N												L			D	D	L	N								D	
+	E	E	E	L				E			E	E	E			N										D						D					N			E		
+L	N	N							D			D	D	D													D									E	E	E	E	E		
+D											E					E	E	E	E	E											E	E			D	D			E			

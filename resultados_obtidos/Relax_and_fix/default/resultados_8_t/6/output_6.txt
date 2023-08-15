@@ -1,0 +1,8 @@
+GUROBI -> Instancia: 6
+Existe solucao
+
+Valor da solucao otima: 2046
+Limitante Dual: 1946
+GAP: 5%
+Nos: 2414
+Tempo: 60 segundos = 1 minutos

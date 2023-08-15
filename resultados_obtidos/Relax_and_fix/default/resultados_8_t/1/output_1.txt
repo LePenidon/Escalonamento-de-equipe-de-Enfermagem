@@ -1,0 +1,8 @@
+GUROBI -> Instancia: 1
+Existe solucao
+
+Valor da solucao otima: 607
+Limitante Dual: 607
+GAP: 0%
+Nos: 385
+Tempo: 0 segundos = 0 minutos

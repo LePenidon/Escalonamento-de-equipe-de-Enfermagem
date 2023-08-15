@@ -1,0 +1,8 @@
+GUROBI -> Instancia: 2
+Existe solucao
+
+Valor da solucao otima: 1028
+Limitante Dual: 1028
+GAP: 0%
+Nos: 0
+Tempo: 2 segundos = 0 minutos

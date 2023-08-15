@@ -1,0 +1,8 @@
+GUROBI -> Instancia: 8
+Existe solucao
+
+Valor da solucao otima: 22180
+Limitante Dual: 22180
+GAP: 0%
+Nos: 0
+Tempo: 30 segundos = 1 minutos

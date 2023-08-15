@@ -1,0 +1,135 @@
+\ Model Enfermeiras_copy
+\ LP format - for model browsing. Use MPS format to capture full model detail.
+Minimize
+ 
+Subject To
+ h_cons_03[L][L]: Nurse_Assigned[11,0,1] + Nurse_Assigned[11,1,1]
+   + Nurse_Assigned[11,2,1] + Nurse_Assigned[11,3,1]
+   + Nurse_Assigned[11,4,1] + Nurse_Assigned[11,5,1]
+   + Nurse_Assigned[11,6,1] + Nurse_Assigned[11,7,1]
+   + Nurse_Assigned[11,8,1] + Nurse_Assigned[11,9,1]
+   + Nurse_Assigned[11,10,1] + Nurse_Assigned[11,11,1]
+   + Nurse_Assigned[11,12,1] + Nurse_Assigned[11,13,1]
+   + Nurse_Assigned[11,14,1] + Nurse_Assigned[11,15,1]
+   + Nurse_Assigned[11,16,1] + Nurse_Assigned[11,17,1]
+   + Nurse_Assigned[11,18,1] + Nurse_Assigned[11,19,1]
+   + Nurse_Assigned[11,20,1] + Nurse_Assigned[11,21,1]
+   + Nurse_Assigned[11,22,1] + Nurse_Assigned[11,23,1]
+   + Nurse_Assigned[11,24,1] + Nurse_Assigned[11,25,1]
+   + Nurse_Assigned[11,26,1] + Nurse_Assigned[11,27,1] <= 0
+ h_cons_04[L]: 480 Nurse_Assigned[11,0,0] + 480 Nurse_Assigned[11,0,1]
+   + 480 Nurse_Assigned[11,1,0] + 480 Nurse_Assigned[11,1,1]
+   + 480 Nurse_Assigned[11,2,0] + 480 Nurse_Assigned[11,2,1]
+   + 480 Nurse_Assigned[11,3,0] + 480 Nurse_Assigned[11,3,1]
+   + 480 Nurse_Assigned[11,4,0] + 480 Nurse_Assigned[11,4,1]
+   + 480 Nurse_Assigned[11,5,0] + 480 Nurse_Assigned[11,5,1]
+   + 480 Nurse_Assigned[11,6,0] + 480 Nurse_Assigned[11,6,1]
+   + 480 Nurse_Assigned[11,7,0] + 480 Nurse_Assigned[11,7,1]
+   + 480 Nurse_Assigned[11,8,0] + 480 Nurse_Assigned[11,8,1]
+   + 480 Nurse_Assigned[11,9,0] + 480 Nurse_Assigned[11,9,1]
+   + 480 Nurse_Assigned[11,10,0] + 480 Nurse_Assigned[11,10,1]
+   + 480 Nurse_Assigned[11,11,0] + 480 Nurse_Assigned[11,11,1]
+   + 480 Nurse_Assigned[11,12,0] + 480 Nurse_Assigned[11,12,1]
+   + 480 Nurse_Assigned[11,13,0] + 480 Nurse_Assigned[11,13,1]
+   + 480 Nurse_Assigned[11,14,0] + 480 Nurse_Assigned[11,14,1]
+   + 480 Nurse_Assigned[11,15,0] + 480 Nurse_Assigned[11,15,1]
+   + 480 Nurse_Assigned[11,16,0] + 480 Nurse_Assigned[11,16,1]
+   + 480 Nurse_Assigned[11,17,0] + 480 Nurse_Assigned[11,17,1]
+   + 480 Nurse_Assigned[11,18,0] + 480 Nurse_Assigned[11,18,1]
+   + 480 Nurse_Assigned[11,19,0] + 480 Nurse_Assigned[11,19,1]
+   + 480 Nurse_Assigned[11,20,0] + 480 Nurse_Assigned[11,20,1]
+   + 480 Nurse_Assigned[11,21,0] + 480 Nurse_Assigned[11,21,1]
+   + 480 Nurse_Assigned[11,22,0] + 480 Nurse_Assigned[11,22,1]
+   + 480 Nurse_Assigned[11,23,0] + 480 Nurse_Assigned[11,23,1]
+   + 480 Nurse_Assigned[11,24,0] + 480 Nurse_Assigned[11,24,1]
+   + 480 Nurse_Assigned[11,25,0] + 480 Nurse_Assigned[11,25,1]
+   + 480 Nurse_Assigned[11,26,0] + 480 Nurse_Assigned[11,26,1]
+   + 480 Nurse_Assigned[11,27,0] + 480 Nurse_Assigned[11,27,1] >= 7560
+ h_cons_06[L][15]: Nurse_Assigned[11,15,0] + Nurse_Assigned[11,15,1]
+   + Nurse_Assigned[11,16,0] + Nurse_Assigned[11,16,1]
+   + Nurse_Assigned[11,17,0] + Nurse_Assigned[11,17,1]
+   + Nurse_Assigned[11,18,0] + Nurse_Assigned[11,18,1]
+   + Nurse_Assigned[11,19,0] + Nurse_Assigned[11,19,1]
+   + Nurse_Assigned[11,20,0] + Nurse_Assigned[11,20,1]
+   + Nurse_Assigned[11,21,0] + Nurse_Assigned[11,21,1] <= 6
+ h_cons_08[L][1][15]: - Nurse_Assigned[11,15,0] - Nurse_Assigned[11,15,1]
+   + Nurse_Assigned[11,16,0] + Nurse_Assigned[11,16,1]
+   - Nurse_Assigned[11,17,0] - Nurse_Assigned[11,17,1] >= -1
+ h_cons_08[L][1][16]: - Nurse_Assigned[11,16,0] - Nurse_Assigned[11,16,1]
+   + Nurse_Assigned[11,17,0] + Nurse_Assigned[11,17,1]
+   - Nurse_Assigned[11,18,0] - Nurse_Assigned[11,18,1] >= -1
+ h_cons_08[L][1][17]: - Nurse_Assigned[11,17,0] - Nurse_Assigned[11,17,1]
+   + Nurse_Assigned[11,18,0] + Nurse_Assigned[11,18,1]
+   - Nurse_Assigned[11,19,0] - Nurse_Assigned[11,19,1] >= -1
+ h_cons_08[L][1][18]: - Nurse_Assigned[11,18,0] - Nurse_Assigned[11,18,1]
+   + Nurse_Assigned[11,19,0] + Nurse_Assigned[11,19,1]
+   - Nurse_Assigned[11,20,0] - Nurse_Assigned[11,20,1] >= -1
+ h_cons_08[L][1][19]: - Nurse_Assigned[11,19,0] - Nurse_Assigned[11,19,1]
+   + Nurse_Assigned[11,20,0] + Nurse_Assigned[11,20,1]
+   - Nurse_Assigned[11,21,0] - Nurse_Assigned[11,21,1] >= -1
+ h_cons_08[L][1][20]: - Nurse_Assigned[11,20,0] - Nurse_Assigned[11,20,1]
+   + Nurse_Assigned[11,21,0] + Nurse_Assigned[11,21,1]
+   - Nurse_Assigned[11,22,0] - Nurse_Assigned[11,22,1] >= -1
+ h_cons_08[L][2][15]: - Nurse_Assigned[11,15,0] - Nurse_Assigned[11,15,1]
+   + Nurse_Assigned[11,16,0] + Nurse_Assigned[11,16,1]
+   + Nurse_Assigned[11,17,0] + Nurse_Assigned[11,17,1]
+   - Nurse_Assigned[11,18,0] - Nurse_Assigned[11,18,1] >= -1
+ h_cons_08[L][2][16]: - Nurse_Assigned[11,16,0] - Nurse_Assigned[11,16,1]
+   + Nurse_Assigned[11,17,0] + Nurse_Assigned[11,17,1]
+   + Nurse_Assigned[11,18,0] + Nurse_Assigned[11,18,1]
+   - Nurse_Assigned[11,19,0] - Nurse_Assigned[11,19,1] >= -1
+ h_cons_08[L][2][17]: - Nurse_Assigned[11,17,0] - Nurse_Assigned[11,17,1]
+   + Nurse_Assigned[11,18,0] + Nurse_Assigned[11,18,1]
+   + Nurse_Assigned[11,19,0] + Nurse_Assigned[11,19,1]
+   - Nurse_Assigned[11,20,0] - Nurse_Assigned[11,20,1] >= -1
+ h_cons_08[L][2][18]: - Nurse_Assigned[11,18,0] - Nurse_Assigned[11,18,1]
+   + Nurse_Assigned[11,19,0] + Nurse_Assigned[11,19,1]
+   + Nurse_Assigned[11,20,0] + Nurse_Assigned[11,20,1]
+   - Nurse_Assigned[11,21,0] - Nurse_Assigned[11,21,1] >= -1
+ h_cons_08[L][2][19]: - Nurse_Assigned[11,19,0] - Nurse_Assigned[11,19,1]
+   + Nurse_Assigned[11,20,0] + Nurse_Assigned[11,20,1]
+   + Nurse_Assigned[11,21,0] + Nurse_Assigned[11,21,1]
+   - Nurse_Assigned[11,22,0] - Nurse_Assigned[11,22,1] >= -1
+ h_cons_08[L][2][20]: - Nurse_Assigned[11,20,0] - Nurse_Assigned[11,20,1]
+   + Nurse_Assigned[11,21,0] + Nurse_Assigned[11,21,1]
+   + Nurse_Assigned[11,22,0] + Nurse_Assigned[11,22,1]
+   - Nurse_Assigned[11,23,0] - Nurse_Assigned[11,23,1] >= -1
+ h_cons_08[L][2][24]: - Nurse_Assigned[11,24,0] - Nurse_Assigned[11,24,1]
+   + Nurse_Assigned[11,25,0] + Nurse_Assigned[11,25,1]
+   + Nurse_Assigned[11,26,0] + Nurse_Assigned[11,26,1]
+   - Nurse_Assigned[11,27,0] - Nurse_Assigned[11,27,1] >= -1
+ h_cons_10[L][25][0]: Nurse_Assigned[11,25,0] = 0
+ h_cons_10[L][26][0]: Nurse_Assigned[11,26,0] = 0
+Bounds
+ Nurse_Assigned[11,2,0] = 0
+ Nurse_Assigned[11,3,0] = 0
+ Nurse_Assigned[11,4,0] = 0
+ Nurse_Assigned[11,11,0] = 0
+ Nurse_Assigned[11,12,0] = 0
+ Nurse_Assigned[11,13,0] = 0
+ Nurse_Assigned[11,14,0] = 0
+ Nurse_Assigned[11,15,0] = 1
+ Nurse_Assigned[11,24,0] free
+ Nurse_Assigned[11,25,0] free
+ Nurse_Assigned[11,25,1] free
+ Nurse_Assigned[11,26,0] free
+ Nurse_Assigned[11,26,1] free
+ Nurse_Assigned[11,27,0] free
+Binaries
+ Nurse_Assigned[11,0,0] Nurse_Assigned[11,0,1] Nurse_Assigned[11,1,0]
+ Nurse_Assigned[11,1,1] Nurse_Assigned[11,2,0] Nurse_Assigned[11,2,1]
+ Nurse_Assigned[11,3,0] Nurse_Assigned[11,3,1] Nurse_Assigned[11,4,0]
+ Nurse_Assigned[11,4,1] Nurse_Assigned[11,5,0] Nurse_Assigned[11,5,1]
+ Nurse_Assigned[11,6,0] Nurse_Assigned[11,6,1] Nurse_Assigned[11,7,0]
+ Nurse_Assigned[11,7,1] Nurse_Assigned[11,8,0] Nurse_Assigned[11,8,1]
+ Nurse_Assigned[11,9,0] Nurse_Assigned[11,9,1] Nurse_Assigned[11,10,0]
+ Nurse_Assigned[11,10,1] Nurse_Assigned[11,11,0] Nurse_Assigned[11,11,1]
+ Nurse_Assigned[11,12,0] Nurse_Assigned[11,12,1] Nurse_Assigned[11,13,0]
+ Nurse_Assigned[11,13,1] Nurse_Assigned[11,14,0] Nurse_Assigned[11,14,1]
+ Nurse_Assigned[11,15,0] Nurse_Assigned[11,15,1] Nurse_Assigned[11,16,0]
+ Nurse_Assigned[11,16,1] Nurse_Assigned[11,17,0] Nurse_Assigned[11,17,1]
+ Nurse_Assigned[11,18,0] Nurse_Assigned[11,18,1] Nurse_Assigned[11,19,0]
+ Nurse_Assigned[11,19,1] Nurse_Assigned[11,20,0] Nurse_Assigned[11,20,1]
+ Nurse_Assigned[11,21,0] Nurse_Assigned[11,21,1] Nurse_Assigned[11,22,0]
+ Nurse_Assigned[11,22,1] Nurse_Assigned[11,23,0] Nurse_Assigned[11,23,1]
+End

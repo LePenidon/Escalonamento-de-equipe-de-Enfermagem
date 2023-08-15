@@ -1,10 +1,8 @@
-# 🏥Escalonamento de equipe de Enfermagem🏥
-📚📖 Projeto de Iniciação Científica 📖📚
+# ALOCAÇÂO DE ENFERMEIRAS
 
-Para rodar o código, basta ter uma licensa do software Gurobi e executar o arquivo "index.py".
-
+um problema de otimização
 
 ---
 
-Feito com 💜 por
+Feito com 💜 by
 - [Gabriel Penido](https://github.com/LePenidon)
