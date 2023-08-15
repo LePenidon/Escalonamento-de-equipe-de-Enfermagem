@@ -1,0 +1,8 @@
+GUROBI -> Instancia: 8
+Existe solucao
+
+Valor da solucao otima: 12384428384
+Limitante Dual: 12384409371
+GAP: 0%
+Nos: 0
+Tempo: 49 segundos = 1 minutos

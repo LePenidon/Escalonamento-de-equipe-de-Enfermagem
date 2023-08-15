@@ -1,0 +1,8 @@
+GUROBI -> Instancia: 3
+Existe solucao
+
+Valor da solucao otima: 1403
+Limitante Dual: 1403
+GAP: 0%
+Nos: 0
+Tempo: 1 segundos = 0 minutos

@@ -1,0 +1,8 @@
+GUROBI -> Instancia: 16
+Existe solucao
+
+Valor da solucao otima: 3228
+Limitante Dual: 3211
+GAP: 1%
+Nos: 116141
+Tempo: 3600 segundos = 60 minutos

@@ -1,0 +1,8 @@
+GUROBI -> Instancia: 4
+Existe solucao
+
+Valor da solucao otima: 1727
+Limitante Dual: 1727
+GAP: 0%
+Nos: 1
+Tempo: 14 segundos = 0 minutos

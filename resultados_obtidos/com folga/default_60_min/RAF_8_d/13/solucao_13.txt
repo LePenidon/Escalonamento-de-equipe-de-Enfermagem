@@ -1,0 +1,120 @@
+																									d5	p5	n3	
+																								a5	p5			
+																								a4	a5	p5	n3	
+																								d5	p4	p5	n3	
+																								a4	d5	p5	n3	
+																								d5	p4	p5	n3	
+																								a5	p5	n3	n2	
+																								a4	d5	p5	n3	
+																									a5	p5	n3	
+																								d5	p4	p5	n3	
+																								a5	p5	n3	n2	
+																								a4	a5	p5	n3	
+																								a4	a5	p5	n3	
+																								a5	p4	p5	n3	
+																								a4	d5	p5	n3	
+																									a5	p5	n3	
+																								a4	d5	p5	n3	
+																								a4	d5	p5	n3	
+																								a5	p5	n3	n2	
+																								a4	d5	p5	n3	
+																								p5	n3			
+																								d5	p4	p5	n3	
+																								d5	p4	p5	n3	
+																									a5	p5	n3	
+																										a5	p5	
+																										d5	p5	
+																								d5	p5	n3	n2	
+																								a5	p5	n3	n2	
+																								d5	p5	n3	n2	
+																									d5	p5	n3	
+																										d5	n3	
+																								a4	a5	p5	n3	
+																								a5	p4	p5	n3	
+																								a5	p4	p5	n3	
+																								d5	p5	n3	n2	
+																								a4	a5	p5	n3	
+																										p5	n3	
+																								a4	d5	p5	n3	
+																										d5	p5	
+																								a4	d5	p5	n3	
+																								d4	d5	p5	n3	
+																									d5	p5	n3	
+																								d5	p4	p5	n3	
+																								d5	n3			
+																								a5	p5	n3		
+																								a5	p5	n3		
+																								d4	d5	p5	n3	
+																								a4	a5	p5	n3	
+																								a4	a5	p5	n3	
+																									a5	p5	n3	
+																								a4	a5	p5	n3	
+																								a4	a5	p5	n3	
+																								a4	d5	p5	n3	
+																								a4	d5	p5	n3	
+																								d5	p5	n3	n2	
+																								a4	d5	p5	n3	
+																								a5	p5	n3	n2	
+																								a4	d5	p5	n3	
+																								a4	a5	p5	n3	
+																								a4	d5	p5	n3	
+																								a4	d5	p5	n3	
+																											d5	
+																								a4	d5	p5	n3	
+																								a4	a5	p5	n3	
+																									a5	p5	n3	
+																									a5	p5	n3	
+																								a4	a5	p5	n3	
+																								a4	a5	p5	n3	
+																								d5	p4	p5	n3	
+																								a4	d5	p5	n3	
+																								a4	d5	p5	n3	
+																								a4	d5	p5	n3	
+																								a5	p5	n3		
+																								a4	a5	p5	n3	
+																								a5	p5	n3	n2	
+																								a4	a5	p5	n3	
+																								d5	p5	n3	n2	
+																								a5	p5	n3	n2	
+																											a5	
+																								a5	p5	n3	n2	
+																								a4	a5	p5	n3	
+																								a4	a5	p5	n3	
+																									d5	p5	n3	
+																									d5	p5	n3	
+																								a4	d5	p5	n3	
+																								a4	d5	p5	n3	
+																								a4	a5	p5	n3	
+																								d5	p4	p5	n3	
+																									a5	p5	n3	
+																								a4	a5	p5	n3	
+																								a4	d5	p5	n3	
+																								d4	d5	p5	n3	
+																								a4	a5	p5	n3	
+																								a4	d5	p5	n3	
+																								a4	d5	p5	n3	
+																								a4	a5	p5	n3	
+																								d5	p5	n3	n2	
+																								a4	a5	p5	n3	
+																											d5	
+																								a4	d5	p5	n3	
+																								a4	a5	p5	n3	
+																								a4	a5	p5	n3	
+																								a5	p4	p5	n3	
+																											p5	
+																								p5	n3			
+																								a4	a5	p5	n3	
+																								a5	p4	p5	n3	
+																								a5	p5	n3	n2	
+																									d5	p5	n3	
+																								a4	d5	p5	n3	
+																								a4	a5	p5	n3	
+																								a4	d5	p5	n3	
+																								d4	d5	p5	n3	
+																								a4	a5	p5	n3	
+																									d5	p5	n3	
+																								a4	d5	p5	n3	
+																								a5	p5	n3	n2	
+																								a4	d5	p5	n3	
+																								n3			a5	
+																								a5	p4	p5	n3	

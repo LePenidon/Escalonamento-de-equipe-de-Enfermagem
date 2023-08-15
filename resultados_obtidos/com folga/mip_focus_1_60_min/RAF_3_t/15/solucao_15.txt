@@ -1,0 +1,45 @@
+n2			n1	n1				n2	n1			n2	n1	n1			n2	n1			n2	n1			n2	n1			n2	n1					n2	n1					n2	
+n2					n2	n1				n2	n1			n2	n1	n1	n1							n1	n1			n2	n1	n1			n1	n1			n2	n1			n2	
+n2			n2	n1						n2	n1			n2	n1				L	n2			n2	n1			n2	n1			n2	n1			n2	n1	n1	n1				
+n2			n2	n1					n2	n1				n2	n1			n2	n1	n1				n2	n1				n2	n1			n2	n1			n2	n1			n2	
+		n1	n1	n1			n2	n1	n1	n1				n2	n1			n2	n1				n2	n1			n2	n1					n2	n1			n2	n1				
+L	n2				L	L	n2					L	L	L	L	L			L	L	L	L	L					L	L	L	n2				L	L	L	L	L			
+L	L	L	L	n2			L	L	L	L	n2			L	L	L								L	L	L	L	n2			L	L						L	L	L	L	
+n2			n2	n1					n2	n1			n2	n1			n2	n1			n2	n1			n2	n1	n1			n2	n1						n2	n1			n2	
+L	n1	n1			L	L	n1			L	L	L	L			L	L	L			L	L	L	L	L				L	L					L	L	L	L	n1			
+L	L	L	n1			L	n1			L	n2				L	L	L							L	n2					L	L	L	n2	n1			L	L	L	L	n1	
+L	L	L	L	L			L	L			L	L	n2				L	L			L	n2			L	L	L			L	L	L			L	L				L	n2	
+L				n2	n1			n2	n1	n1	n1					n2	n1				n2	n1			n2	n1				n2	n1			n2	n1			n2	n1			
+L	n2			L	L			n1	n1						L	L	L	L				L	L	L	L			L	L	n1	n1				L	L	n2			L	n2	
+L	L	n2			L	L	L	L	n2							L	L	L			L	L	L	n2				L	L	L				L	L	L	L	L			L	
+n1	n1			L	L	L			L	n1	n1			L	L	L	L	L			L	L	L	L	L						L	L			L	L	L	L			L	
+L	L	L	L	L			L	L	L	L			L	L	L			L	L			L	L	L	L			L	L	L	n1					n1	n1	n1				
+n2			n2	n1			n2	n1			n2	n1			n2	n1					n2	n1			n2	n1				n2	n1	n1					n2	n1			n2	
+n2			n2	n1			n2	n1	n1	n1						n2	n1				n2	n1	n1			L	n2						L	n2			n2	n1			n2	
+n2			n2	n1							n2	n1				n2	n1	n1					n1	n1	n1			n2	n1			n2	n1	n1			n2	n1	n1			
+L					L	L	L	L	n2			L	L				L	L			L	L	L	L	L				L	L	L	L			L	n2			L	L	n2	
+L	L	n2							L	L	L			L	L	L	L			L	L	L	L	L				L	L	L	n2				L	n2			L	L	L	
+n1			L	L	L	n2			L	n1			L	n1			L	L	L	L	L			n2	n1			L	L	L					L	L	L	n2				
+n2			L	n2			L	L	L	L	L				L	L	L	L			L	L	L			L	L	L						L	L	L	L	L			n2	
+n1			L	n2			L	n1			L	L			L	L	L	n2			n1	n1				L	L	L			L	L	L	n2			L	L	L			
+L	L	n1	n1				L	L	L	n1	n1			L	L			L	L	L	L			L	L	L			L	L	L	L						L	L	L		
+L	L			L	n2			L	L						L	L	L	n2			L	L	L	L	L				L	L	L	L	L					L	L	L	n2	
+n2			n2	n1						n2	n1			n2	n1	n1			n2	n1			n2	n1			n2	n1			n2	n1					n2	n1			n2	
+n2			n2	n1			n2	n1	n1								n2	n1				n2	n1	n1	n1			n2	n1			n2	n1				n2	n1			n2	
+n2			n1	n1			n2	n1			n2	n1			n2	n1	n1				n2	n1			n2	n1			n2	n1						n2	n1				n2	
+n2			n2	n1				n2	n1				n2	n1			n2	n1				n2	n1	n1					n2	n1			n2	n1			n2	n1			n2	
+L	L	L	L				L	L	n2	n1				L	L	L	L	L	L									L	L	L	L				L	L				L	L	
+L	L	n2					L	L	L	L	L	n2				L	L	L						L	L	L	L	L				L	L				L	L	n2			
+		L	n1					L	L	L					L	L	L	L	n1	n1				L	L				L	L	L	L				L	L	L	L	L		
+L	L				L	n2	n1				L	L	L				n1	n1				L	L	L	L				L	L	L				L	n2				L	n2	
+n2				n2	n1				n2	n1					n2	n1	n1	n1				n2	n1							n2	n1				n2	n1	n1				n2	
+			n2	n1				n2	n1	n1	n1				n2	n1						n2	n1				n2	n1				n2	n1				n2	n1	n1			
+		n2	n1				n2	n1				n2	n1	n1					n2	n1	n1	n1	n1					n2	n1							n2	n1				n2	
+n2	n1				L	n2					n2	n1					n2	n1				n2	n1	n1				n2	n1	n1					n2	n1					n2	
+n2				n2	n1	n1				n1	n1				n2	n1	n1				n2	n1				n2	n1				n2	n1					n2	n1				
+		L	L	L	L	L					L	L	L	L	n2				n2	n1	n1							L	L	L	L					L	L	L	n1			
+		n2	n1	n1								L	L	L	L	L			L	L															L	n2				L	L	
+L	L	L	L	L																				L	n2							L	L	L	L	n2				L	L	
+n2					n2	n1				n2	n1					n2	n1				n1	n1												n2	n1							
+		L	L				L	L	L			L					L	L							L						L				n1	n1			L			
+n1			n1	n1	n1	n1	n1			n2				n2															n2								n2					

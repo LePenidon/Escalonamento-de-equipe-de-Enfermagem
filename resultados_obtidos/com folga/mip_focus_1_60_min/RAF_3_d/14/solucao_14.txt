@@ -1,0 +1,32 @@
+																								N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	
+																								N	N	N	N	N	N	N	N	N	N	N	N	N	N	N			N	
+																								N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N			
+																								N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	
+																							E	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	
+																											N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	
+																								N	N	N	N	N	N	N	N	N	N	N	N	N	N	N			N	
+																								N	N	N	N	N	N	N	N	N	N	N					N	N	N	
+																								N	N				N	N			N	N	N	N	N	N	N	N	N	
+																								N	N	N	N	N	N	N			N	N	N	N	N	N	N	N	N	
+																						E	D	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	
+																											N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	
+																											N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	
+																							D	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	
+																								N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	
+																								N	N	N	N	N	N	N	N	N				N	N	N	N	N	N	
+																								N	N	N			N	N			N	N	N	N	N	N	N	N	N	
+																								N	N	N	N	N					N	N	N	N	N	N	N	N	N	
+																											N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	
+																								N	N	N			N	N				N	N	N	N	N	N	N	N	
+																								N	N	N	N	N	N	N	N	N	N	N	N	N				N	N	
+																								N	N	N	N	N				N	N				N	N	N	N	N	
+																								N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	
+																								N	N	N	N	N	N				N	N	N	N	N	N	N	N	N	
+																								N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	
+																								N	N	N	N	N	N	N	N	N	N	N	N				N	N	N	
+																											N	N	N	N	N	N	N	N	N	N	N	N				
+																		E	E			D				E	E	E	E	E			D	D	D	D			D			
+																		E			E	L	L				E			D	D	D	L					E	D	E	D	
+																					D			D	D	E			E			D	D	D	L	L			D	E	L	
+																		D						D			D	E	D	E	D	D	E			E	E	E	E			
+																		E	E					D	D	D	D			D	E	E	E	E			D	E				

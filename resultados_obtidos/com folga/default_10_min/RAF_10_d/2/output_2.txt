@@ -1,0 +1,8 @@
+GUROBI -> Instancia: 2
+Existe solucao
+
+Valor da solucao otima: 932
+Limitante Dual: 932
+GAP: 0%
+Nos: 1
+Tempo: 4 segundos = 0 minutos

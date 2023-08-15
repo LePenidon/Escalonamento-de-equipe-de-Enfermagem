@@ -1,0 +1,8 @@
+GUROBI -> Instancia: 23
+Existe solucao
+
+Valor da solucao otima: 984391620808
+Limitante Dual: 143
+GAP: 100%
+Nos: 0
+Tempo: 600 segundos = 10 minutos

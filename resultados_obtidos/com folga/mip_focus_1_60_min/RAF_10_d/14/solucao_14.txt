@@ -1,0 +1,32 @@
+D	E	D	E	E			D	E	N	N	N	N							E	E	E	E	E			L	L			E	N					L	L	L	L			
+N				D	D	D	N	N	N	N				D	D	D	D	D					D	D	D	D	D			D	D	D	D	D	D							
+L			N	N			E	D	D			E	E	E				E	D	L	L			D	D	E	N			E	E	L			D	E	N	N				
+	L	L	L	L	L				L	L	L	L	L			D	D						D	D	D	L	L			D	D	L			L	L	L	L	L			
+L	L				D	D	N	N				L	L	L	L	L					L	L	L	L	L			N	N			E	L	L	L			D	N			
+D	D	D	D	L			L	L	L	L					L	L	L	L			D	D	L				L	L	L				D	D	L				D	L	L	
+D	N	N	N				D	L	L				L	L	N	N			L	L	L			D	D	L	L	L			L	L			D	D	D					
+E			E	E			E	E	E	E	E			D	D	D	L	N	N				N	N	N			D	E				E	D					E	E	E	
+	E	E	E	N				E	E	E	N			E	D	E	E	D	D	D	N			E	D								D	E	E	N				E	N	
+L			D	D	L	L	L			E	E	L	L	N			E	D				E	E	L			D	D	D	D					N	N	N	N				
+D	E	D						E	E	E	E			L	L	L	L	L			L	L	L			E	E	E	E				D	E	D			D	E	E		
+		E	E	E	E	E				L	L	N			E	L	L	N			E	D	E	L				N	N			E	D	E	E			E	N			
+D			D	D			D	E	D	D	D	D			E	N			D	D	D							D	D	D	D	D				D	D	D	D	D	D	
+E				E	E	E	E	D	L	N	N			D	E	E	D	E			E	D				E	E	E			E	E	N	N	N							
+		D	D	D				L	L	L	L	L	L					D	L	L			L	L	L			L	L	L	L	L	L	L			D	L	L			
+N	N	N	N	N				D	D	D	D	D			D	D	D	L			D	D	D			D	D										D	D	D	D	D	
+L	L	L	L				L	L	L	L	L			D	D	D			D	L			D	D	D	L			L	L						D	D	D	D	D		
+E	D	D	L	L				E	D	E	E			E	N	N			E	D	D	D	D			E	N						N	N			D	E	D			
+	D	D			E	N						D	E	E	E	L	L			D	E	L	L					L	N	N	N	N			E	E	E	L	L			
+L	L	L	N			D	E	D	D	D	E			L	L	L	L	L	L	L	L								D	D							L	L	L	L	L	
+			D	D	D	D	D	D	N							E	D	E				D	E	E	E	L	L	L	L	L	L	L	L	L	L	L						
+D	L	L	L	L					D	E	E	E	E	D				E	E	E	E	D	E								E	E				E	D	E	D	E	D	
+	L	L	L	L	L	N					D	D	D	L	N	N					L	L	N							L	L	L				L	L	L	L	L	N	
+N				D	E	D	N	N	N					D	E	E	D	D	D				D	E	E	E	E	D							E	E	E	D	N			
+	E	E	E	E	E	E	D	D	E						E	E	E	E	D	D	E	E				E	D	E	D	D	E					D	E					
+E	E	E	E	E										D	D	N	N	N	N				E	D				E	E	E	E	E	E	E	E				E	D	N	
+D	D	L	L	L	L	L	L	L	L	L	L					L	L	L	N	N	N	N								L	L	L	L	L								
+E	N								E			D	D				E	E	E	E						E	E	E	E													
+	E	N	N									L	L	L					L	L										D	D	D								L		
+		E			L	L				E	E	E	N										N									D	D	E								
+										D	D	D	D						N	N																E	E	E	E	E		
+E	D	D															E	E	E	E						D	D				E	E							E	E		

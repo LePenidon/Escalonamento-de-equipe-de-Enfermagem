@@ -1,0 +1,8 @@
+GUROBI -> Instancia: 7
+Existe solucao
+
+Valor da solucao otima: 1748
+Limitante Dual: 1042
+GAP: 40%
+Nos: 1
+Tempo: 60 segundos = 1 minutos

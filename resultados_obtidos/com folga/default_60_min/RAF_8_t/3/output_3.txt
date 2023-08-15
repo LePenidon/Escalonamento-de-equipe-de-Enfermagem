@@ -1,0 +1,8 @@
+GUROBI -> Instancia: 3
+Existe solucao
+
+Valor da solucao otima: 1001
+Limitante Dual: 1001
+GAP: 0%
+Nos: 191
+Tempo: 10 segundos = 0 minutos

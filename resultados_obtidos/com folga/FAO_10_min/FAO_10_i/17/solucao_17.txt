@@ -1,0 +1,32 @@
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+																																																								
+	E	D	D	L				E	N	N			L	L			D	N			E	E	E	D	L			E	E			D	D	L	L			E	N	N				E	E	E	E	E			L	L	L			
+E	E	E	N	N					E	E	N	N	N			E	E	E	E	E					E	L	L	L						L	L	L	L	L				D	D	L	N	N			E	E	L	L	N			
+E	E	E	D	L										N	N	N	N	N			D	D	D	D	L			E	E	D	D	D			E	D	D	D	D			D	N	N			E	E			E	D	N	N	N	
+D	D	D	D	D			L	L						L	L	L	L	L					E	D	L	L	L			L	L	L			E	E	L			L	L	L	L	L				D	D	D	D	D			L	
+L	L	L	L			D	L	L			D	D	D	L	L			N	N	N	N	N							E	E	E	E				E	E	L	N			E	E	E	L	L			D	D	D			L	N	
+E	N	N			N	N			E	E	E	E	E			E	N	N					E	E			E	E	E	E	E				E	E	E	E	E					E	E	E			E	E	E	E	E			
+E	L	L	N	N			D	L	N			E	D	L	L	L					E	E	E	D				E	E	E	E	E				N	N	N			E	E	E	D	L				D	N	N	N	N			
+L				E	E	E	E	E				D	L	L	L	L			E	D	D	D	D					D	N	N	N	N			E	D	D	D	N			E	E	L	L	N			D	D	L	N			L	
+E	E	E	E	E					D	D	D	D	D			E	E	E	D			L	N	N	N			D	D	D	D						E	D	D			E	D	L	L	L			E	L	L	L	L			
+D	D	D			D	N			L	N	N			D	N			E	E	L			E	L				L	N	N	N	N			D	D	D	L	N					E	E	E	E	N			E	E	E	E	E	
+L	L	L	L					E	E	E	D				D	D	D	D			D	D	D			D	D	D	D			N	N			E	D	D	D				D	D			E	D				L	L	L	L	
+		D	L	L	L	L	L	L	L	L	N						L	L	L			E	E	N	N					E	E	E					E	E	E	E			E	E	E	D			E	E	N			E	E	

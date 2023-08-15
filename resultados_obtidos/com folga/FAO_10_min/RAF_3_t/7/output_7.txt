@@ -1,0 +1,8 @@
+GUROBI -> Instancia: 7
+Existe solucao
+
+Valor da solucao otima: 1844
+Limitante Dual: 1044
+GAP: 43%
+Nos: 1
+Tempo: 10 segundos = 0 minutos

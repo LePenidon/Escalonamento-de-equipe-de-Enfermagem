@@ -3,19 +3,13 @@ import os
 import itertools
 
 
-# Define as opções de valores
-valores_tipo = ['i', 'd', 't']
-valores_qtd = [3, 8, 10]
-
-# Gera todas as combinações possíveis
-combinacoes = itertools.product(valores_qtd, valores_tipo)
+combinacoes = ['modelo_padrao', 'FAO_3_d', 'FAO_3_i', 'FAO_3_t',
+               'FAO_8_i', 'FAO_8_d', 'FAO_8_t', 'FAO_10_i', 'FAO_10_d', 'FAO_10_t']
 
 for part_atual in combinacoes:
-    qtd_particoes = part_atual[0]
-    tipo_particao = part_atual[1]
 
     # Define o caminho da pasta de resultados
-    pasta_resultados = "resultados_{}_{}".format(qtd_particoes, tipo_particao)
+    pasta_resultados = "{}".format(part_atual)
 
     # Criação do dicionário
     dicionario = {}
@@ -98,7 +92,7 @@ for part_atual in combinacoes:
         alternar_cor = not alternar_cor
 
     # Define o título da tabela
-    titulo = "Partições: {} - {}".format(qtd_particoes, tipo_particao)
+    titulo = "{}".format(part_atual)
     titulo_obj = ax.set_title(titulo, fontsize=14, fontweight='bold', pad=20)
 
     # Define a posição do título
@@ -108,5 +102,5 @@ for part_atual in combinacoes:
     ax.axis('off')
 
     # Salva a tabela como uma imagem PNG
-    nome_arquivo = "tabela_{}_{}.png".format(qtd_particoes, tipo_particao)
+    nome_arquivo = "tabela_{}.png".format(part_atual)
     plt.savefig(nome_arquivo)

@@ -1,0 +1,8 @@
+GUROBI -> Instancia: 11
+Existe solucao
+
+Valor da solucao otima: 20091858964
+Limitante Dual: 20091858964
+GAP: 0%
+Nos: 0
+Tempo: 11 segundos = 0 minutos

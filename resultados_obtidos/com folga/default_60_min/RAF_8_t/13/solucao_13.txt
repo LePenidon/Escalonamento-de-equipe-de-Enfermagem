@@ -1,0 +1,120 @@
+		n3	n2				n3	n2				n3	n2			n3	n2	n2				n3	n2				n3	
+n3			n3	n2			n3	n2	n2					n3	n2			n3	n2					n3	n2			
+			n3	n2			n3	n2			n3	n2			n3	n2						n3	n2			n3	n2	
+n3			n3	n2				n3	n2					n3	n2				n3	n2			n3	n2			n3	
+n3			n3	n2			n3	n2			n3	n2			n3	n2						n3	n2	n2				
+n3			n3	n2					n3	n2					n3	n2	n2	n2					n3	n2			n3	
+n3			n3	n2				n3	n2							n3	n2			n3	n2	n2	n2				n3	
+n3			n3	n2				n3	n2					n3	n2			n3	n2				n3	n2			n3	
+n3			n3	n2			n3	n2				n3	n2			n3	n2					n3	n2				n3	
+n3			n3	n2				n3	n2			n3	n2				n3	n2						n3	n2	n2		
+n3							n3	n2	n2			n3	n2	n2			n3	n2					n3	n2			n3	
+n3			n3	n2			n3	n2				n3	n2			n3	n2				n3	n2					n3	
+n3			n3	n2			n3	n2						n3	n2			n3	n2				n3	n2			n3	
+n3	n2			n3	n2			n3	n2			n3	n2			n3	n2							n3	n2			
+n3			n3	n2				n3	n2					n3	n2			n3	n2			n3	n2				n3	
+n3			n3	n2			n3	n2			n3	n2			n3	n2					n3	n2					n3	
+n3			n3	n2				n3	n2				n3	n2							n3	n2	n2	n2			n3	
+n3			n3	n2					n3	n2					n3	n2	n2	n2					n3	n2			n3	
+n3			n3	n2			n3	n2	n2	n2								n3	n2				n3	n2			n3	
+n3					n3	n2			n3	n2				n3	n2			n3	n2	n2				n3	n2			
+n3			n3	n2				n3	n2			n3	n2				n3	n2			n3	n2	n2					
+n3	n2									n3	n2			n3	n2			n3	n2	n2			n3	n2			n3	
+n3			n3	n2						n3	n2			n3	n2			n3	n2			n3	n2				n3	
+n3				n3	n2			n3	n2						n3	n2	n2	n2			n3	n2					n3	
+			n3	n2				n3	n2			n3	n2			n3	n2	n2					n3	n2			n3	
+n3			n3	n2			n3	n2				n3	n2				n3	n2				n3	n2				n3	
+n3			n3	n2			n3	n2									n3	n2			n3	n2	n2	n2			n3	
+n3							n3	n2			n3	n2			n3	n2					n3	n2			n3	n2	n2	
+n3			n3	n2			n3	n2			n3	n2			n3	n2					n3	n2					n3	
+n3			n3	n2			n3	n2				n3	n2			n3	n2					n3	n2				n3	
+n3			n3	n2				n3	n2					n3	n2			n3	n2				n3	n2			n3	
+		n3	n2				n3	n2	n2					n3	n2			n3	n2				n3	n2			n3	
+	n3	n2					n3	n2			n3	n2					n3	n2			n3	n2	n2				n3	
+n3			n3	n2				n3	n2						n3	n2			n3	n2			n3	n2			n3	
+n3			n3	n2					n3	n2					n3	n2	n2	n2				n3	n2				n3	
+n3	n2	n2							n3	n2					n3	n2			n3	n2			n3	n2			n3	
+n3			n3	n2			n3	n2			n3	n2				n3	n2						n3	n2			n3	
+		n3	n2					n3	n2			n3	n2			n3	n2	n2					n3	n2			n3	
+n3						n3	n2			n3	n2				n3	n2	n2	n2			n3	n2					n3	
+n3			n3	n2	n2					n3	n2			n3	n2	n2					n3	n2					n3	
+n3						n3	n2			n3	n2				n3	n2			n3	n2			n3	n2	n2			
+n3			n3	n2					n3	n2			n3	n2			n3	n2			n3	n2					n3	
+n3			n3	n2				n3	n2			n3	n2				n3	n2			n3	n2					n3	
+n3			n3	n2			n3	n2					n3	n2			n3	n2				n3	n2				n3	
+n3							n3	n2			n3	n2			n3	n2	n2			n3	n2			n3	n2			
+n3			n3	n2					n3	n2			n3	n2			n3	n2	n2					n3	n2			
+n3			n3	n2			n3	n2						n3	n2			n2	n2				n3	n2			n3	
+n3			n3	n2			n3	n2			n3	n2			n3	n2									n3	n2	n2	
+n3			n3	n2			n3	n2						n3	n2			n3	n2			n3	n2				n3	
+n3			n3	n2				n2	n2			n3	n2				n3	n2				n3	n2				n3	
+n3			n3	n2			n3	n2	n2						n3	n2						n3	n2	n2			n3	
+n3			n3	n2					n3	n2				n3	n2			n3	n2			n3	n2				n3	
+n3			n3	n2					n3	n2				n3	n2			n3	n2				n3	n2			n3	
+			n3	n2			n3	n2			n3	n2				n3	n2	n2					n3	n2			n3	
+n3			n3	n2					n3	n2					n2	n2			n2	n2			n3	n2			n3	
+n3			n3	n2			n3	n2			n3	n2			n3	n2					n3	n2					n3	
+n3			n3	n2			n3	n2							n3	n2				n3	n2	n2	n2				n3	
+n3			n3	n2					n3	n2					n3	n2			n3	n2			n3	n2			n3	
+			n2	n2				n2	n2					n3	n2				n2	n2	n2	n2	n2				n3	
+n3				n3	n2	n2	n2			n3	n2			n3	n2								n3	n2			n3	
+n3				n3	n2					n3	n2			n3	n2	n2	n2				n3	n2					n3	
+n3			n3	n2			n3	n2			n2	n2					n3	n2					n3	n2			n3	
+n3			n3	n2					n3	n2	n2	n2			n3	n2							n3	n2			n3	
+		n3	n2				n3	n2					n3	n2			n3	n2				n3	n2	n2			n3	
+n3								n3	n2	n2	n2			n3	n2			n3	n2			n3	n2				n3	
+n3	n2			n3	n2				n3	n2	n2				n3	n2						n3	n2				n3	
+n3			n3	n2							n3	n2	n2			n3	n2				n3	n2				n3	n2	
+n3			n3	n2	n2			n3	n2							n3	n2							n3	n2	n2	n2	
+n3			n3	n2					n3	n2			n3	n2			n3	n2						n3	n2	n2		
+n3			n3	n2				n3	n2			n3	n2			n3	n2					n3	n2				n3	
+n3			n3	n2				n3	n2				n3	n2			n3	n2				n3	n2				n3	
+n3			n3	n2			n3	n2				n3	n2			n3	n2					n3	n2				n3	
+n3			n3	n2			n3	n2				n3	n2					n3	n2			n3	n2	n2				
+	n3	n2	n2				n3	n2				n3	n2				n3	n2					n3	n2			n2	
+n3			n3	n2			n3	n2			n3	n2				n3	n2						n3	n2			n3	
+n3			n3	n2			n3	n2						n3	n2	n2				n3	n2			n3	n2			
+		n3	n2	n2			n3	n2			n3	n2					n3	n2							n3	n2	n2	
+n3			n3	n2					n3	n2				n3	n2			n3	n2					n3	n2	n2		
+n3			n3	n2			n3	n2			n3	n2			n2	n2							n3	n2			n3	
+n3	n2			n3	n2			n3	n2					n3	n2					n3	n2			n3	n2			
+n3			n3	n2				n3	n2					n3	n2				n3	n2			n3	n2			n3	
+n3			n3	n2	n2			n3	n2						n3	n2				n3	n2			n3	n2			
+n3			n3	n2			n3	n2					n3	n2			n3	n2				n3	n2				n3	
+n3				n3	n2				n3	n2	n2			n3	n2	n2					n3	n2					n3	
+	n3	n2			n3	n2				n3	n2					n3	n2	n2			n3	n2					n3	
+n3			n3	n2			n3	n2				n3	n2			n3	n2						n3	n2			n3	
+n3					n3	n2			n3	n2	n2			n3	n2				n3	n2				n3	n2			
+n3			n3	n2					n3	n2					n3	n2			n3	n2			n2	n2			n3	
+		n3	n2					n3	n2	n2			n3	n2			n3	n2				n3	n2				n3	
+n3			n3	n2	n2					n3	n2			n3	n2	n2						n3	n2				n3	
+n3				n3	n2				n3	n2				n3	n2	n2					n3	n2	n2				n3	
+n3	n2	n2					n3	n2				n3	n2				n3	n2				n3	n2				n3	
+n3	n2						n3	n2				n3	n2	n2							n3	n2	n2	n2	n2	n2		
+n3	n2					n3	n2	n2	n2	n2						n3	n2				n3	n2	n2	n2				
+n3	n2	n2					n3	n2				n3	n2				n3	n2				n3	n2				n3	
+n3	n2	n2					n3	n2	n2	n2	n2					n3	n2					n3	n2				n3	
+n3	n2	n2					n3	n2				n3	n2				n3	n2				n3	n2				n3	
+n3	n2	n2				n2	n2						n2	n2	n2	n2	n2	n2						n3	n2			
+n3	n2				n3	n2				n3	n2				n3	n2					n3	n2	n2				n3	
+n3				n3	n2				n3	n2				n3	n2	n2	n2					n3	n2				n3	
+					n3	n2	n2												n3	n2						n2	n2	
+n3											n3	n2			n2	n2					n3	n2						
+n3				n3	n2								n3	n2											n3	n2		
+		n3	n2								n3	n2			n3	n2											n3	
+n3					n3	n2	n2											n3	n2								n2	
+n3							n3	n2	n2									n3	n2								n3	
+n3						n2	n2	n2					n3	n2													n3	
+n3													n3	n2					n2	n2	n2						n3	
+n3							n3	n2											n2	n2					n3	n2		
+n2						n3	n2				n3	n2						n3	n2									
+n3										n2	n2	n2									n2	n2					n3	
+n3			n3	n2											n3	n2	n2										n3	
+			n3	n2														n3	n2			n3	n2				n3	
+									n3	n2								n3	n2			n3	n2				n3	
+		n2	n2								n3	n2				n3	n2	n2										
+		n3	n2			n3								n3								n3						
+n2	n2										n3					n3							n3					
+							n2										n3				n3				n3	n2		
+n2	n2								n3			n3										n3						
+n3									n3					n3										n3			n2	

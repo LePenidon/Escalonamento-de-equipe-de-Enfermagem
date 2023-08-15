@@ -1,0 +1,60 @@
+p3	p3	p3			p3	p3			p3	p3	p3				p3	p3	p3	p3			p3	p3			p3	p3		
+			p3	p3	n1	n1	n1			p3	p3			n1	n1	n1	n1	n1				p3	p3	n1			p3	
+p3	p3	p3			p3	p3	p3	p3	p3					n1	n1			p3	p3	n1	n1			p3	n1			
+p3	p3	p3	p3				p3	p3	p3	p3			p3	p3	p3						p3	p3			p3	p3	p3	
+p3			p3	n1				n1	n1	n1				p3	p3	p3	p3			p3	p3	p3	p3			p3	p3	
+n1	n1	n1	n1			p3	p3	p3	n1					p3	p3	n1					p3	p3			n1	n1	n1	
+n1	n1	n1	n1			p3	p3	p3	p3					p3	n1	n1			n1	n1			p3	p3	n1			
+p3			p3	p3	p3	p3	p3							p3	p3	p3	p3	p3					p3	p3	p3	p3	p3	
+	n1	n1	n1	n1			n1	n1			p3	n1			n1	n1	n1				n1	n1			n1	n1	n1	
+p3	p3	p3			p3	p3	p3	p3			p3	n1			p3	p3	p3	p3			n1	n1	n1					
+		p3	p3	p3	p3			p3	p3	n1	n1			n1	n1	n1							p3	p3	p3	p3	p3	
+n1	n1	n1						p3	p3	p3			n1	n1	n1	n1	n1				p3	p3	n1			n1	n1	
+	n1	n1	n1	n1			p3	n1	n1	n1				p3	n1			n1	n1	n1	n1	n1					p3	
+p3	n1	n1	n1				p3	p3	p3	p3	p3				p3	p3	p3	p3	n1			p3	p3					
+p3	n1			p3	p3	n1			p3	p3	p3	p3	p3			p3	p3				p3	p3	p3	n1				
+n1	n1			n1	n1	n1			n1	n1	n1			p3	p3	n1					p3	p3	p3			p3	n1	
+p3	p3	p3	p3	p3			p3	p3			p3	p3			p3	p3	p3	p3							p3	p3	p3	
+p3	p3	p3	n1	n1			p3	p3			p3	p3	p3	n1					p3	p3	p3	p3	n1					
+p3	p3	p3	p3	p3			p3	p3	p3	p3						n1	n1	n1			p3	p3				p3	p3	
+p3			p3	p3	p3	p3	p3			p3	p3			p3	p3	p3			p3	p3	p3	p3	n1					
+n1	n1	n1	n1						p3	n1				p3	p3			n1	n1	n1	n1			p3	p3	p3	n1	
+p3	p3	p3	p3	n1				p3	p3	p3					p3	n1			p3	p3	p3				p3	p3	n1	
+			p3	p3	p3	p3			p3	p3	p3				p3	p3	p3	p3	p3			p3	p3	p3	p3			
+p3	p3	p3	p3	p3			p3	p3			p3	p3	p3	p3	p3									p3	p3	p3	p3	
+p3	p3	p3	p3	p3				p3	p3	n1	n1				p3	p3			p3	n1					p3	p3	p3	
+p3	p3	p3	p3	n1					p3	p3	p3	n1				p3	n1				p3	p3	n1			p3	p3	
+p3	p3	n1	n1					p3	p3	p3	p3	p3					p3	n1			p3	n1			p3	p3	p3	
+p3			p3	p3			p3	n1			p3	p3	p3	p3			n1	n1					p3	p3	p3	p3	p3	
+p3	p3	n1	n1			p3	p3	p3	p3					p3	n1	n1					p3	p3	p3			n1	n1	
+p3	p3	p3	p3			n1	n1	n1	n1							p3	n1	n1			p3	n1	n1			p3	n1	
+p3	p3	p3	p3					p3	p3	n1	n1	n1				p3	p3				p3	p3	n1			p3	p3	
+	p3	p3	p3	p3			p3	n1			p3	n1			p3	p3	n1				p3	n1			n1	n1	n1	
+p3	p3	p3	n1			p3	p3			p3	p3				p3	n1	n1					p3	p3	p3	p3	p3		
+p3			p3	p3	p3	p3			n1	n1			p3	p3	p3	p3					p3	p3	p3	n1	n1			
+p3			p3	p3			p3	p3	p3	p3	p3				p3	p3	p3			p3	p3	p3				p3	p3	
+p3	p3	p3	n1				p3	p3	p3	p3			p3	p3	n1			n1	n1			p3	p3	p3				
+p3	p3	p3	p3					p3	p3			p3	p3	p3	p3	p3					p3	p3			p3	p3	p3	
+	n1	n1	n1	n1	n1			n1	n1	n1	n1			p3	n1	n1					n1	n1				n1	n1	
+p3	p3	p3			p3	p3	n1			p3	p3	p3	p3	p3			p3	n1					p3	n1	n1			
+p3	n1			p3	p3	p3			p3	p3	n1	n1			p3	p3					p3	p3	p3	p3	p3			
+	p3	p3	n1	n1	n1	n1								p3	p3	p3	p3				p3	p3	p3	p3	p3	p3		
+n1	n1	n1					p3	p3	n1				p3	p3	n1	n1	n1	n1						n1	n1	n1	n1	
+p3	p3				p3	p3	n1	n1	n1	n1						p3	p3					p3	p3	p3	p3	p3	p3	
+n1	n1	n1	n1				p3	p3				p3	n1				p3	p3				p3	n1	n1	n1	n1	n1	
+p3	p3	p3				p3	p3	p3	p3	p3				p3	p3	p3	p3	p3				p3	p3				p3	
+p3	n1	n1				n1	n1	n1	n1						n1	n1	n1					p3	p3	n1	n1	n1	n1	
+p3				p3	p3	p3	p3	p3	p3					p3	n1	n1	n1						p3	p3	p3	p3	n1	
+p3	p3				p3	p3	p3	p3	p3	p3				p3	p3	p3	n1				p3	p3				p3	n1	
+n1	n1	n1	n1	n1				p3	p3	p3	p3						p3	p3	p3					p3	p3	n1	n1	
+p3	n1	n1							p3	p3	n1	n1				p3	p3	n1				p3	p3	n1	n1	n1	n1	
+n1	n1	n1	n1	n1					p3	n1																n1	n1	
+p3					p3	p3	p3				p3	p3	p3													p3	p3	
+p3																p3	p3	p3			p3	p3	p3	p3	p3			
+n1				p3	n1			p3	p3				n1	n1	n1												n1	
+n1			p3	p3	p3	p3														n1	n1					n1	n1	
+p3	p3	p3			p3	p3	p3								p3	p3											n1	
+p3	p3	p3																p3	p3	p3	p3	p3					n1	
+n1										p3	p3	p3	n1			p3	n1									n1	n1	
+	n1	n1			p3	p3	p3	n1												n1	n1						n1	
+		p3	p3	p3														p3	p3				p3	p3	p3	p3		

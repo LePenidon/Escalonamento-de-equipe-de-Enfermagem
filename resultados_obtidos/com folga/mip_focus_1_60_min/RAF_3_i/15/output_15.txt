@@ -1,0 +1,8 @@
+GUROBI -> Instancia: 15
+Existe solucao
+
+Valor da solucao otima: 39997270795
+Limitante Dual: 39997270640
+GAP: 0%
+Nos: 1
+Tempo: 53 segundos = 1 minutos

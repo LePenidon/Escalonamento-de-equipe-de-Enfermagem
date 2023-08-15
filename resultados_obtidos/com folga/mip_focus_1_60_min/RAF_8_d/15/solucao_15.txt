@@ -1,0 +1,45 @@
+																																e2	e1	e2	n2	n1			e2	n2	n1	
+																									D	n1	n1					e2	n2	n1			e2	e1	e2	n2	n1	
+																																e2	n2	n1	n1	n1	n1	n1				
+																																e2	e1	e2	e1	e2	e1	e2	e1	e2	n2	
+																																	e2	e1	e2	e1	e2	e1	e2	n2	n1	
+																																e2	e1	e2	n2	n1	n1	n1	n1	n1	n1	
+																												e1	e1	e2	D	e1	e2	n2	n1			e2	e1	e2	n2	
+																																e2	D	e1	e2	e1	e2	e1	e2	n2	n1	
+																																	e2	e1	e2	e1	e2	e1	e2	n2	n1	
+																																e2	e1	e2	e1	e2	D	e1	e2	n2	n1	
+																																e2	e1	e2	n2	n1			e2	n2	n1	
+																																e2	e1	e2	e1	e2	e1	e2	e1	e2	n2	
+																													e2	n1	n1	n1	n1	n1	n1	n1	n1	n1	n1	n1	n1	
+																												D	e1	e1	n2	n1	n1	n1	n1	n1	n1	n1	n1	n1	n1	
+																																e2	e1	e2	e1	e2	e1	e2	e1	e2	n2	
+																																				e2	n2	n1	n1	n1	n1	
+																																e2	e1	e2	e1	e2	e1	e2	e1	e2	n2	
+																																	e2	e1	e2	e1	e2	e1	e2	n2	n1	
+																																e2	e1	e2	D	e1	e2	e1	e2	n2	n1	
+																															e1	e2	e1	e2	e1	e2	e1	e2	e1	e2	n2	
+																																e2	e1	e2	e1	e2	e1	e2	e1	e2	n2	
+																									e1	e1	n1	n1	n1			e2	e1	e2	e1	e2	n2	n1			n2	
+																																	e2	e1	e2	e1	e2	e1	e2	n2	n1	
+																														e2	n1	n1	n1	n1	n1	n1	n1	n1	n1	n1	n1	
+																																					e2	e1	e2	n2	n1	
+																																e2	e1	e2	e1	e2	e1	e2	e1	e2	n2	
+																																e2	e1	e2	e1	e2	e1	e2	e1	e2	n2	
+																																e2	n2	n1	n1	n1	n1	n1	n1	n1	n1	
+																																	e2	e1	e2	e1	e2	e1	e2	n2	n1	
+																																e2	e1	e2	n2	n1	n1	n1	n1	n1	n1	
+																																			e2	n2				e2	n2	
+																											e2	L	L	L	L	n2	n1	n1	n1	n1	n1	n1	n1	n1	n1	
+																																e2	e1	e2	e1	e2	e1	e2	n2	n1	n1	
+																																e2	n2				e2	e1	e2	n2	n1	
+																															D	e1	e2	e1	e2	e1	e2	e1	e2	n2	n1	
+																																e2	n2				e2	e1	e2	n2	n1	
+																																	e2	n2	n1	n1	n1	n1	n1	n1	n1	
+																																e2	e1	e2	e1	e2	e1	e2	e1	e2	n2	
+																															e2	e1	e2	e1	e2	e1	e2	e1	e2	n2	n1	
+																																				e2	n2	n1	n1	n1	n1	
+																																e2	e1	e2	e1	e2	e1	e2	e1	e2	n2	
+																																e2	e1	e2	D	e1	e2	e1	e2	n2	n1	
+																																	e2	e1	e2	e1	e2	n2	n1	n1	n1	
+																								e1	e2			D	D	D					e2	e1	e2	n1			e2	
+																								e2	D			D	D	D					e2			e2	D	n2	n1	

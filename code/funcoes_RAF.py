@@ -130,7 +130,7 @@ def particoesT(dados, qtd):
     return lista_parti
 
 
-def plotGraficoRAF(FO, tempo, instancia):
+def plotGraficoRAF(FO, tempo, instancia, pasta):
     posicoes = [i+1 for i in range(len(FO))]
 
     plt.figure(figsize=(8, 6))
@@ -143,7 +143,7 @@ def plotGraficoRAF(FO, tempo, instancia):
     plt.grid(color='gray', linestyle='--')
 
     # Exibir o gráfico
-    plt.savefig('resultados/' + str(instancia) +
+    plt.savefig("resultados/" + pasta + "/" + str(instancia) +
                 '/'+'FO_'+str(instancia)+'.png')
 
     plt.figure(figsize=(8, 6))
@@ -156,11 +156,15 @@ def plotGraficoRAF(FO, tempo, instancia):
     plt.grid(color='gray', linestyle='--')
 
     # Exibir o gráfico
-    plt.savefig('resultados/' + str(instancia) +
+    plt.savefig("resultados/" + pasta + "/" + str(instancia) +
                 '/'+'tempo_' + str(instancia) + '.png')
 
 
-def relaxAndFix(model, dados, minutos, particoes, instancia):
+def relaxAndFix(model, dados, minutos, particoes, instancia, pasta, num, part):
+    pasta = "RAF_{}_{}".format(num, part)
+    criaDiretorios(pasta, instancia)
+
+    inicio_modelo(model, dados, minutos)
 
     inicio_tempo = time.time()
 
@@ -210,8 +214,7 @@ def relaxAndFix(model, dados, minutos, particoes, instancia):
                 model.x_idt[dados.index_I(x[0]), x[1], dados.index_T(x[2])].ub = round(
                     model.x_idt[dados.index_I(x[0]), x[1], dados.index_T(x[2])].X)
 
-            solucaoTabela(model, dados, instancia)
-            # Caso nao tenha encontrado uma solucao factivel, o algoritmo para
+        # Caso nao tenha encontrado uma solucao factivel, o algoritmo para
         else:
             break
 
@@ -219,16 +222,16 @@ def relaxAndFix(model, dados, minutos, particoes, instancia):
 
     if (not (not (model.m.status in (GRB.OPTIMAL, GRB.TIME_LIMIT, GRB.SOLUTION_LIMIT)) or model.m.solCount == 0)):
 
-        plotGraficoRAF(lista_FO, lista_tempo, instancia)
-        solucaoTabela(model, dados, instancia)
-        printSolucao(model, instancia, fim_tempo-inicio_tempo)
+        plotGraficoRAF(lista_FO, lista_tempo, instancia, pasta)
+        solucaoTabela(model, dados, instancia, pasta)
+        printSolucao(model, instancia, fim_tempo-inicio_tempo, pasta)
 
     else:
         print("Nao foi possivel achar uma solucao pelo metodo Relax and Fix. Status: ", model.m.status)
 
         if model.m.status == gp.GRB.INFEASIBLE:
             model.m.computeIIS()
-            model.m.write('resultados/' + str(instancia) +
+            model.m.write("resultados/" + pasta + "/" + str(instancia) +
                           '/'+'IIS_'+str(instancia)+'.ilp')
             iis_constraints = [
                 constr for constr in model.m.getConstrs() if constr.IISConstr]
@@ -236,16 +239,12 @@ def relaxAndFix(model, dados, minutos, particoes, instancia):
             output = ""
             output += "Restricoes infactiveis: \n\n"
 
-            solfile = io.open("resultados/"+str(instancia) + "/" +
+            solfile = io.open("resultados/" + pasta + "/"+str(instancia) + "/" +
                               "restricoes_infac_" + str(instancia) + ".txt", "w+")
 
             for constr in iis_constraints:
                 output += constr.constrName + "\n"
 
             solfile.write(output)
-
-    model.m.resetParams()
-    model.m.reset(0)
-    model.m.dispose()
 
     return

@@ -1,0 +1,8 @@
+GUROBI -> Instancia: 5
+Existe solucao
+
+Valor da solucao otima: 301228
+Limitante Dual: 301226
+GAP: 0%
+Nos: 72
+Tempo: 44 segundos = 1 minutos
